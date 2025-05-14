@@ -1,0 +1,1 @@
+This chapter is just about reading data in Python, exploring it and checking for duplicate and null values.

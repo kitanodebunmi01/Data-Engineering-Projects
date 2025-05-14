@@ -1,0 +1,1 @@
+This chapter is about exporting and transforming data with Python, dropping unwanted columns and standardizing our data

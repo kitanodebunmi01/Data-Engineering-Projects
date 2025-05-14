@@ -1,0 +1,1 @@
+This chapter is basically to load our data into out cloud database or our proposed database. For this, an AWS DB instance was created for the purpose of loading our tranformed data and querying it.
